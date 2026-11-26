@@ -18,5 +18,9 @@ async function setup() {
 function draw() {
   background(220);
 
-  circle(mouseX, mouseY, 50);
+  for (let y = 0; y < grid.length; y++){
+    for (let x = 0; x < grid[y].length; x++){
+      
+    }
+  }
 }

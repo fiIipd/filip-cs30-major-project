@@ -13,7 +13,7 @@ I will be making a grid style time management cooking game,
 - Title screen, new round screen(aswell as multiple rounds), highscore, score.
 - Timer on the round aswell as a progress timer on the foods.
 - Order queue system, where the faster you make the order, the more points you get and vice versa.
-- A base chef, kitchen items, countertops, and customer sprites. Aswell as sound effects.
+- A base chef, kitchen items, countertops, sprites. Aswell as sound effects.
 
 ## Nice to have List
 
